@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-kt
+Kirtan Agrawal
+I'm currently learning Java, Data Science, AI/ML
