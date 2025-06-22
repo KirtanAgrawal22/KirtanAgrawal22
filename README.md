@@ -1,41 +1,23 @@
-I’m Kirtan, a cloud-obsessed engineer ⚡ who lives at the intersection of automation and problem-solving. Currently working on building full-stack applications and contributing to open-source projects.
+# 💫👋 Hello World!
+I’m Kirtan, a cloud-obsessed engineer ⚡ who lives at the intersection of automation and problem-solving. Currently working on building full-stack applications and contributing to open-source projects.<br><br>💪 <br>My Superpowers<br>☁️ Cloud & DevOps<br>• Designing resilient cloud architectures (AWS)
+<br>• Automating everything with CI/CD pipelines
+<br>• Containerizing dreams with Docker & Kubernetes
+<br>• Infrastructure-as-Code <br><br>👩‍💻 Full-Stack Development<br>• Crafting sleek UIs with React
+<br>• Building scalable backends with Node.js/Python
+<br>• Database (SQL & NoSQL)<br><br>🧩 Problem-Solving Pro<br>• 400+ DSA problems conquered
+<br>• LeetCode warrior with a knack for optimization
+<br>• Turning complex challenges into elegant solutions<br><br>🚀 Beyond the Code<br>• Hobbies:- Speedcuber, Dancer, Swimmer
+<br>• Open-Source Evangelist - Because sharing is caring!
+<br>• Collaboration Enthusiast - My best work happens in teams
+<br>• Continuous Learner - Currently geeking out over AI/ML and serverless tech<br><br>🌈 Why Work With Me?<br>I bring more than just technical skills to the table:<br>✅ Clear communicator who bridges tech and business needs
+<br>✅ Solution-oriented mindset that thrives under pressure
+<br>✅ Passion for sharing knowledge
+<br>✅ Relentlessly curious about emerging tech—interestead in exploring AI ML, Blockchain
+<br><br>📬 Let’s Build Something Amazing!<br>I’m always excited to:<br>• Collaborate on innovative projects
+<br>• Build scalable, innovative solutions
+<br>• Explore emerging tech trends in AI, automation
+<br>• Connect with fellow tech enthusiasts<br><br>www.linkedin.com/in/kirtan-agrawal/<br>github.com/KirtanAgrawal22
 
-💪 My Superpowers
-☁️ Cloud & DevOps
-• Designing resilient cloud architectures (AWS)
-• Automating everything with CI/CD pipelines
-• Containerizing dreams with Docker & Kubernetes
-• Infrastructure-as-Code 
-
-👩‍💻 Full-Stack Development
-• Crafting sleek UIs with React
-• Building scalable backends with Node.js/Python
-• Database (SQL & NoSQL)
-
-🧩 Problem-Solving
-• 400+ DSA problems conquered
-• LeetCode warrior with a knack for optimization
-• Turning complex challenges into elegant solutions
-
-🚀 Beyond the Code
-• Speedcubing Champion 
-• Open-Source Evangelist - Because sharing is caring!
-• Collaboration Enthusiast - My best work happens in teams
-• Continuous Learner - Currently geeking out over AI/ML and serverless tech
-
-🌈 Why Work With Me?
-I bring more than just technical skills to the table:
-✅ Clear communicator who bridges tech and business needs
-✅ Solution-oriented mindset that thrives under pressure
-✅ Passion for sharing knowledge
-✅ Relentlessly curious about emerging tech—interestead in exploring AI ML, Blockchain
-
-📬 Let’s Build Something Amazing!
-I’m always excited to:
-• Collaborate on innovative projects
-• Build scalable, innovative solutions
-• Explore emerging tech trends in AI, automation
-• Connect with fellow tech enthusiasts
 # 💻 Tech Stack:
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
 # 📊 GitHub Stats:
